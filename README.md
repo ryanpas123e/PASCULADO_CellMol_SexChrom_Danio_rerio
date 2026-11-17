@@ -134,7 +134,7 @@ cat(paste(summary, collapse = "\n"), "\n").
 ### Part E. Interpret your results
 The record describes a *Danio rerio* (zebrafish) sample, whole organism (SRA: `SRR39501506`; BioProject associated with the sequencing run). This is the metadata used to evaluate the sample context in Part E;
 
-Where the $X:A$ or $Z:A$ ratio is not applicable because the reference assembly (`GCA_052040759.2`) lacks annotated heteromorphic sex chromosomes. The median autosomal depth is 105.826× across the ten verified autosomes (`CM124807.1` through `CM124816.1`). Because zebrafish utilize a polygenic and environmental sex-determination system rather than a fixed XX/XY or ZZ/ZW chromosomal system, standard read-depth dosage analysis cannot be performed to infer a chromosomal sex ratio. The result is therefore autosome-only and reflects a fundamental biological limitation of the reference genome rather than a technical failure.
+Where the X:A or Z:A ratio is not applicable because the reference assembly (`GCA_052040759.2`) lacks annotated heteromorphic sex chromosomes. The median autosomal depth is 105.826× across the ten verified autosomes (`CM124807.1` through `CM124816.1`). Because zebrafish utilize a polygenic and environmental sex-determination system rather than a fixed XX/XY or ZZ/ZW chromosomal system, standard read-depth dosage analysis cannot be performed to infer a chromosomal sex ratio. The result is therefore autosome-only and reflects a fundamental biological limitation of the reference genome rather than a technical failure.
 
 ---
 ## Questions for the report
